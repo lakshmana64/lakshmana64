@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Lakshmana%20Shiva&fontSize=45&fontAlign=50&fontAlignY=40&desc=AI%20Agent%20Builder%20•%20Python%20Automation&descAlign=50&descAlignY=60&animation=fadeIn&fontColor=ffffff"/>
+</p>
+ 
  # Hi, I'm Lakshmana Shiva 👋
 
 📍 Bengaluru, IN | 🐍 Python Developer · Google Apps Script · Automation Specialist · Azure · JAMF · Google Workspace | 🤖 AI Agent Automation · Independent AI Researcher
