@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0f2027,50:203a43,100:2c5364&text=Lakshmana%20Shiva&fontSize=45&fontAlign=50&fontAlignY=40&desc=AI%20Agent%20Builder%20•%20Python%20Automation&descAlign=50&descAlignY=60&animation=fadeIn&fontColor=ffffff"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=AI+Agent+Builder;Python+Automation+Engineer;FastAPI+%7C+LLM+Tools;Developer+Productivity+Tools" />
 </p>
  
  # Hi, I'm Lakshmana Shiva 👋
