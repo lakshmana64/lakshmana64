@@ -1,6 +1,10 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=AI+Agent+Builder;Python+Automation+Engineer;FastAPI+%7C+LLM+Tools;Developer+Productivity+Tools" />
 </p>
+
+<p align="center">
+<img src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" width="180"/>
+</p>
  
  # Hi, I'm Lakshmana Shiva 👋
 
