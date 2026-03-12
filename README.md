@@ -1,84 +1,83 @@
 <div align="center">
-  <!-- THE DYNAMIC HEADER -->
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=1a1b26&height=240&section=header&text=LAKSHMANA%20SHIVA&fontSize=75&animation=fadeIn&fontColor=7aa2f7&desc=PROGRAM%20MANAGER%20%E2%9E%A4%20AI%20ARCHITECT&descSize=20&descAlignVertical=55" width="100%" />
+  <!-- SLEEK ANIMATED HEADER -->
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=0d1117&height=250&section=header&text=LAKSHMANA%20SHIVA&fontSize=85&animation=twinkling&fontColor=79c0ff&desc=AI%20AGENT%20ARCHITECT%20%E2%97%8F%20PROGRAM%20STRATEGIST&descSize=22&descAlignVertical=55&descAlign=50" width="100%" />
 
   <br/>
 
-  <!-- STRATEGIC PILLS -->
+  <!-- DYNAMIC STATUS BAR -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Experience-11+_Years-7aa2f7?style=for-the-badge&logo=expertsexchange" />
-    <img src="https://img.shields.io/badge/Specialty-Agentic_Workflows-bb9af7?style=for-the-badge&logo=openai" />
-    <img src="https://img.shields.io/badge/Ops-FinTech_Scale-9ece6a?style=for-the-badge&logo=target" />
+    <img src="https://img.shields.io/badge/Experience-11+_Years-79c0ff?style=for-the-badge&logo=expertsexchange&logoColor=white" />
+    <img src="https://img.shields.io/badge/Stack-AI_Agents_|_FastAPI-bb9af7?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Focus-Operational_Muda_Reduction-9ece6a?style=for-the-badge&logo=lean-pub&logoColor=white" />
   </p>
 
   <p align="center">
-    <a href="https://linkedin.com/in/lakshmanashiva"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat-square&logo=linkedin" /></a>
-    <a href="mailto:lakshmanashiva3@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail" /></a>
-    <img src="https://img.shields.io/badge/Location-Bengaluru-6A5ACD?style=flat-square&logo=googlemaps" />
+    <a href="https://linkedin.com/in/lakshmanashiva"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:lakshmanashiva3@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+    <a href="https://v0-lakshmana-shiva-portfolio.vercel.app"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
   </p>
 </div>
 
 ---
 
-### 🛰️ The Executive Summary
-> **Architecting the intersection of Enterprise Scale and Autonomous Intelligence.**  
-With **11+ years** in technical delivery[cite: 1], I specialize in building high-reliability systems—from managing global IT operations at **Amazon**[cite: 1] to leading IPO-ready GRC rollouts at **Groww**[cite: 1]. Today, I focus on **Model Context Protocol (MCP)** and **Agentic AI** to eliminate operational "Muda"[cite: 1].
-
----
-
-### 🧩 The Multi-Stack Grid
-
-<table width="100%" border="0">
+### 🏛️ The Architect's Bento
+<table align="center" width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h4>🤖 AI & Automation</h4>
+    <td width="60%" valign="top">
+      <h3>🚀 Strategic Vision</h3>
+      <p>Bridging <b>Enterprise Scale</b> with <b>Agentic Intelligence</b>. I transform manual friction into automated precision.</p>
       <ul>
-        <li><b>LLM Ops:</b> RAG, Vector Databases, Prompt Engineering[cite: 1]</li>
-        <li><b>Agents:</b> MCP, Ralph, Anthropic API[cite: 1]</li>
-        <li><b>Workflow:</b> n8n, Power Automate, Python[cite: 1]</li>
+        <li><b>Groww:</b> Led IPO-ready GRC & Product Launches (90% reduction in manual effort).</li>
+        <li><b>Amazon:</b> Scaled Global Ops Support across APAC, EMEA, and NA.</li>
+        <li><b>Current:</b> Architecting <b>MCP</b> servers and AI Career Intelligence.</li>
       </ul>
     </td>
-    <td width="50%" valign="top">
-      <h4>🏢 Program Management</h4>
-      <ul>
-        <li><b>Execution:</b> Agile/Scrum, OKR Alignment[cite: 1]</li>
-        <li><b>Governance:</b> ISO 27001, NIST, CSCRF[cite: 1]</li>
-        <li><b>Scale:</b> Global Ops Support (APAC, EMEA, NA)[cite: 1]</li>
-      </ul>
+    <td width="40%" valign="top">
+      <h3>🛠️ Core Tech Orbit</h3>
+      <img src="https://skillicons.dev/icons?i=python,fastapi,azure,aws,gcp,postgres,docker,github,linux,bash&perline=5&theme=dark" />
     </td>
   </tr>
 </table>
 
 ---
 
-### 🚀 Highlighted Innovations
+### 📦 Agentic Ecosystem (Featured Repos)
 
-| Project | Impact | Technology |
-| :--- | :--- | :--- |
-| **Enterprise GRC Platform** | Reduced manual effort by **90%** for IPO readiness[cite: 1]. | `Scrut GRC` `NIST` `ISO 27001` |
-| **ITAM Automation** | Real-time asset visibility via JAMF & Azure integration[cite: 1]. | `JAMF` `Azure` `Zoho SDP` |
-| **Metrics Dashboard** | Automated daily compliance reporting for leadership[cite: 1]. | `Power BI` `Appscript` `API` |
-
----
-
-### 🛠️ Technical Palette
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,azure,aws,gcp,docker,github,linux,bash,postgres&perline=10&theme=dark" />
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <b>🤖 ralph-python-skill</b><br/>
+      <i>Modular AI Skillsets</i><br/>
+      <code>Python</code> <code>Agents</code>
+    </td>
+    <td width="33%" align="center">
+      <b>⚡ fastapi-mcp</b><br/>
+      <i>Enterprise LLM Bridge</i><br/>
+      <code>FastAPI</code> <code>Claude</code>
+    </td>
+    <td width="33%" align="center">
+      <b>💼 AI-ATS-Engine</b><br/>
+      <i>Recruitment Intelligence</i><br/>
+      <code>NLP</code> <code>OpenAI</code>
+    </td>
+  </tr>
+</table>
 </div>
 
 ---
 
-### 📈 System Vitality
+### 📈 Engineering Velocity
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lakshmana64&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmana64&layout=compact&theme=tokyonight&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lakshmana64&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79c0ff&text_color=c9d1d9" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmana64&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=79c0ff&text_color=c9d1d9" />
 </p>
 
 ---
 
-### ⚡ Terminal Insight
-```bash
-$ identity --check lakshmana64
-> Role: Solution Architect (AI/Ops)
-> Philosophy: "Muda is the enemy; Automation is the cure."[cite: 1]
-> Currently: Scaling Agentic intelligence for 2026.
+### 💻 Terminal Identity
+```zsh
+$ whoami
+> Lakshmana Shiva: AI Architect & Program Leader
+> Mission: "Eliminate Muda. Automate Everything."
+> Status: 11+ Years Experience | FinTech & Cloud Security
