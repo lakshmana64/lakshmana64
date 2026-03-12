@@ -100,7 +100,7 @@ This adds powerful Python development templates to your Claude Code agent.
 ## 🔗 Connect With Me
 
 - **GitHub:** [@lakshmana64](https://github.com/lakshmana64)
-- **LinkedIn:** [Add your LinkedIn profile](https://www.linkedin.com/in/lakshmanashiva/)
+- **LinkedIn:** [Lakshmana](https://www.linkedin.com/in/lakshmanashiva/)
 - **Email:** [lakshmanashiva3@gmail.com](mailto:lakshmanashiva3@gmail.com)
 
 ---
