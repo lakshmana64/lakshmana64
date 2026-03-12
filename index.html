@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            background: linear-gradient(to right, #f0f4c3, #e1f5fe);
+        }
+        header {
+            width: 100%;
+            background: #3f51b5;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+        }
+        .hero {
+            text-align: center;
+            padding: 2em;
+            background: #c5cae9;
+            margin: 1em 0;
+            border-radius: 8px;
+        }
+        .projects, .tech-stack, .contact {
+            width: 80%;
+            margin: 1em 0;
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-around;
+        }
+        .project-card {
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+            width: 30%;
+            margin: 1em;
+            transition: transform 0.3s;
+        }
+        .project-card:hover {
+            transform: scale(1.05);
+        }
+        .tech-badge {
+            background: #3f51b5;
+            color: white;
+            padding: 0.5em;
+            border-radius: 5px;
+            margin: 0.5em;
+        }
+        footer {
+            text-align: center;
+            padding: 1em 0;
+            background: #3f51b5;
+            color: white;
+            width: 100%;
+            position: absolute;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>My Portfolio</h1>
+        <nav>
+            <a href="#home">Home</a> | 
+            <a href="#projects">Projects</a> | 
+            <a href="#tech">Tech Stack</a> | 
+            <a href="#contact">Contact</a>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h2>Welcome to My Portfolio!</h2>
+        <p>Hi, I'm a passionate developer.</p>
+    </section>
+
+    <section class="projects" id="projects">
+        <h2>Featured Projects</h2>
+        <div class="project-card">
+            <h3>Ralph Python Skill</h3>
+            <p>A comprehensive skill set in Python programming for dynamic applications.</p>
+        </div>
+        <div class="project-card">
+            <h3>FastAPI MCP</h3>
+            <p>High-performance and easy-to-use API framework for Python.</p>
+        </div>
+        <div class="project-card">
+            <h3>FastAPI Starter</h3>
+            <p>Your go-to template for getting started with FastAPI.</p>
+        </div>
+    </section>
+
+    <section class="tech-stack" id="tech">
+        <h2>Tech Stack</h2>
+        <div class="tech-badge">Python</div>
+        <div class="tech-badge">FastAPI</div>
+        <div class="tech-badge">HTML</div>
+        <div class="tech-badge">CSS</div>
+        <div class="tech-badge">JavaScript</div>
+    </section>
+
+    <section class="contact" id="contact">
+        <h2>Contact Me</h2>
+        <p>Email: myemail@example.com</p>
+        <p>Connect with me on <a href="#">LinkedIn</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2026 My Portfolio</p>
+    </footer>
+</body>
+</html>
