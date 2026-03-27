@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Lakshmana</h1>
+<h1 align="center">🚀 Lakshmana Shiva</h1>
 <h3 align="center">AI Systems Architect | Agentic AI • MCP • Automation</h3>
 
 <p align="center">
