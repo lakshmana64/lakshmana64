@@ -1,115 +1,120 @@
-<h1 align="center">🚀 Lakshmana Shiva</h1>
-<h3 align="center">AI Systems Architect | Agentic AI • MCP • Automation</h3>
+# Hi, I'm Lakshmana 👋
 
-<p align="center">
-  Building AI systems that <b>don’t just respond — but act.</b>
-</p>
+📍 **India (Chennai)** | 🤖 **Agentic AI Builder** | 🚀 **AI Systems Architect | Fintech & GRC**
 
----
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-000000?style=flat-square)
+![RAG](https://img.shields.io/badge/-RAG-FF6F00?style=flat-square)
 
-## ⚡ About Me
-
-- 🧠 11+ years in Fintech, Security & Infrastructure  
-- 🏢 Ex-Amazon | Ex-Groww  
-- 🔐 Expertise in GRC, Cyber Defense & Automation  
-- 🤖 Building Agentic AI systems using MCP, RAG & FastAPI  
-- 🌍 Designing systems that reduce manual work by **80–90%**
-
----
-
-## 🧰 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,linux,mongodb,postgres,git,github,azure" />
-</p>
+> Building AI systems that **don’t just chat — but take action.**  
+> Automating real-world workflows across GRC, fintech & enterprise systems.
 
 ---
 
-## 🚀 What I Build
+## 🚀 Current Projects
 
-✨ AI agents that perform real-world actions  
-✨ MCP-based tool ecosystems  
-✨ Automated GRC & compliance systems  
-✨ AI-powered workflows replacing manual operations  
+- ⚡ **[fastapi-mcp](https://github.com/lakshmana64/fastapi-mcp)**  
+  Turn any FastAPI app into an AI tool server → plug into Claude/GPT agents  
+  👉 *Bringing real-world actions to AI systems*
 
----
+- 🤖 **[AI-ATS-Engine](https://github.com/lakshmana64/AI-ATS-Engine)**  
+  AI-powered hiring engine with resume scoring & career insights  
+  👉 *Replacing manual recruitment workflows*
 
-## 🔥 Featured Projects
+- 🛡️ **[Enterprise-GRC-Framework](https://github.com/lakshmana64/Enterprise-GRC-Framework)**  
+  Automated compliance system for ISO 27001, NIST  
+  👉 *Reducing audit effort by 80–90%*
 
-### ⚡ fastapi-mcp
-Turn any FastAPI app into an AI tool server
-
-🚀 Plug into Claude / GPT agents instantly  
-🧠 Enables real-world AI automation  
-
-👉 https://github.com/lakshmana64/fastapi-mcp
-
----
-
-### 🤖 AI-ATS-Engine
-AI recruitment engine with resume scoring
-
-💡 Automates hiring workflows  
-📊 Smart candidate evaluation  
-
-👉 https://github.com/lakshmana64/AI-ATS-Engine
+- 📊 **TurboQuant AI (Work in Progress)**  
+  Optimizing local LLM memory (KV cache) for better performance  
+  👉 *Making local AI faster & scalable*
 
 ---
 
-### 🛡️ Enterprise-GRC-Framework
-Compliance automation for ISO 27001 & NIST
+## 🧠 What I’m Building
 
-🔐 Risk tracking & audit readiness  
-⚡ Reduces manual compliance effort  
-
-👉 https://github.com/lakshmana64/Enterprise-GRC-Framework
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakshmana64&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lakshmana64&theme=radical" height="150"/>
-</p>
+- 🤖 Agentic AI systems (MCP ecosystem)
+- ⚡ AI tools that execute real workflows
+- 🔐 GRC automation platforms
+- 🌐 Scalable AI infrastructure for enterprises
 
 ---
 
-## 🧠 Current Focus
+## ⚡ What I Do
 
-- 🔥 Agentic AI Systems (MCP ecosystem)
-- ⚡ Local LLM optimization (TurboQuant)
-- 🤖 AI for GRC & enterprise workflows
-- 🌐 Building scalable AI infra
+- **AI Systems Architecture** – Designing end-to-end AI systems  
+- **Automation at Scale** – Replacing manual ops with AI  
+- **GRC & Security Engineering** – ISO, NIST, compliance automation  
+- **Product + Program Execution** – Bridging tech & business  
 
 ---
 
-## 📈 Impact
+## 📊 Impact
 
 - 🚀 Reduced manual effort by **90%** in workflows  
 - 🧠 Built AI systems for real-world automation  
 - 🔐 Improved compliance efficiency across orgs  
+- ⚡ Delivered enterprise-scale solutions in fintech  
 
 ---
 
-## 🌍 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Reach%20Out-red?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
-
----
-
-## 💡 Philosophy
+## 🔥 Philosophy
 
 > “AI is not about chat.  
 > It’s about systems that take action.”
 
 ---
 
-⭐ If you like my work, consider starring my repositories!
+## 📈 GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/lakshmana64)
+
+---
+
+## 🌍 What I'm Doing
+
+- **Building AI-native systems** for enterprise use cases  
+- **Exploring Agentic AI** and real-world automation  
+- **Rapid prototyping** → from idea to system in days  
+- **Bringing AI into GRC & security workflows**
+
+---
+
+## 📣 Connect
+
+[![LinkedIn](https://img.shields.io/badge/-Lakshmana-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/lakshmana64)
+
+---
+
+## 🧠 Recognition (In Progress 🚀)
+
+- Building AI systems for real-world enterprise automation  
+- Growing open-source ecosystem around MCP & AI agents  
+- Focused on high-impact AI + GRC solutions  
+
+---
+
+## 💡 Future Vision
+
+- AI replacing repetitive enterprise workflows  
+- Autonomous agents handling operations  
+- GRC becoming fully automated  
+
+---
+
+## 🧩 Random Facts
+
+- Thinks in systems, not just code  
+- Combines **GRC + AI (rare skill combo)**  
+- Obsessed with automation  
+- Building towards AI-first enterprise stack  
+
+---
+
+⭐ If you find my work useful, consider starring my repositories!
